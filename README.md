@@ -16,5 +16,5 @@ The website is lightweight, clean, and easy to navigate. It focuses on presentin
 Created as a simple personal project to practice front-end fundamentals and build a basic online presence.
 
 ### 🌐 Live Demo
-*(Add your live demo link here)*
+*(https://gnanesh-sys.github.io/portfolio-simple-website/)*
 
